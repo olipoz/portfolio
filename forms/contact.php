@@ -29,7 +29,7 @@
     'host' => 'smtp.orange.fr',
     'username' => 'pozza.olivier@laposte.net',
     'password' => 'Beltane92',
-    'port' => '465'
+    'port' => '587'
   );
   
 
